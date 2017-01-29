@@ -4,7 +4,7 @@
 	<groupId>de.usu.abiegel</groupId>
 	<artifactId>histrix-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-		<description>Dies ein Test Projekt, welches die Optionen mit dem Fork-Join Framework im Hinblick auf die Realisierbarkeit von ImportJobs</description>
+		<description>Dies ein Test Projekt, welches die Optionen mit dem Hystrix Framework untersucht</description>
 	<developers>
 		<developer>
 			<email>a.biegel@usu.de</email>
