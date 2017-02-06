@@ -1,7 +1,7 @@
 /**
  * 
  */
-package de.usu.abiegel.hystrix;
+package de.abiegel.hystrix;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -9,7 +9,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import de.usu.abiegel.rest.TransferObject;
+import de.abiegel.rest.TransferObject;
 
 /**
  * @author usiabiegel

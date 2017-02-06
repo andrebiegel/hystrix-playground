@@ -5,4 +5,4 @@
  * @author usiabiegel
  *
  */
-package de.usu.abiegel.rest;
+package de.abiegel.rest;

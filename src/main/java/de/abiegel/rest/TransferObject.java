@@ -1,4 +1,4 @@
-package de.usu.abiegel.rest;
+package de.abiegel.rest;
 
 public class TransferObject {
 

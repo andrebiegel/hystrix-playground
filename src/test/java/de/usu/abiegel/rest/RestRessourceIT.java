@@ -14,8 +14,9 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+import de.abiegel.hystrix.RestResource;
+import de.abiegel.rest.TransferObject;
 import de.usu.abiegel.hystrix.JaxRsIntegrationTest;
-import de.usu.abiegel.hystrix.RestResource;
 
 
 /**
@@ -59,7 +60,7 @@ public class RestRessourceIT extends JaxRsIntegrationTest{
 
 	/**
 	 * Test method for
-	 * {@link de.usu.abiegel.rest.RestRessource#getTransferObject()}.
+	 * {@link de.abiegel.rest.RestRessource#getTransferObject()}.
 	 */
 	@Test
 	public final void testGetTransferObject() {
